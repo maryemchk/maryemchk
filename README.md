@@ -25,10 +25,10 @@
 
 ---
 
-### ⚙️ Tech Toolbox
+### ⚙️ AI & Data Engineering Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,react,mysql,git,linux,js,html,css,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,scikitlearn,elasticsearch,langchain,docker,sql,git,jupyter,vscode&theme=dark" />
 </p>
 
 ---
