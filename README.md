@@ -27,9 +27,25 @@
 
 ### ⚙️ AI & Data Engineering Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,scikitlearn,langchain,elasticsearch,docker,jupyter,sql,git,fastapi,vscode&theme=dark" />
+### ⚙️ AI & Data Engineering Toolbox
+
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" />
+  <img src="https://skillicons.dev/icons?i=pandas" width="50" />
+  <img src="https://skillicons.dev/icons?i=numpy" width="50" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="50" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" width="50" />
+  <img src="https://skillicons.dev/icons?i=langchain" width="50" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" />
+  <img src="https://skillicons.dev/icons?i=sql" width="50" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" />
+  <img src="https://skillicons.dev/icons?i=jupyter" width="50" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
 </p>
+
 
 ---
 
