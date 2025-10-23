@@ -28,7 +28,7 @@
 ### ⚙️ AI & Data Engineering Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,scikitlearn,elasticsearch,langchain,docker,sql,git,jupyter,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,scikitlearn,langchain,elasticsearch,docker,jupyter,sql,git,fastapi,vscode&theme=dark" />
 </p>
 
 ---
@@ -59,12 +59,12 @@
 
 ---
 
-### 🤝 Let’s Connect
+### 📌 Portfolio & LinkedIn
 
 <p align="center">
-  <a href="https://linkedin.com/in/maryemchakroun"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maryem-chakroun-093a9b222"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio2025-eight-orcin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-website-lightgrey?logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:chakrounmeryem23@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://maryemchk.github.io/impact-forge-v1-site/"><img src="https://img.shields.io/badge/Portfolio-website-lightgrey?logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
