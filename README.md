@@ -25,25 +25,10 @@
 
 ---
 
-### ⚙️ AI & Data Engineering Toolbox
+### ⚙️ Tech Toolbox
 
-### ⚙️ AI & Data Engineering Toolbox
-
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=python" width="50" />
-  <img src="https://skillicons.dev/icons?i=pytorch" width="50" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" />
-  <img src="https://skillicons.dev/icons?i=pandas" width="50" />
-  <img src="https://skillicons.dev/icons?i=numpy" width="50" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" width="50" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" width="50" />
-  <img src="https://skillicons.dev/icons?i=langchain" width="50" />
-  <img src="https://skillicons.dev/icons?i=docker" width="50" />
-  <img src="https://skillicons.dev/icons?i=sql" width="50" />
-  <img src="https://skillicons.dev/icons?i=git" width="50" />
-  <img src="https://skillicons.dev/icons?i=jupyter" width="50" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,elasticsearch,docker,fastapi,react,mysql,git,linux,js,html,css,vscode&theme=dark" />
 </p>
 
 
