@@ -31,16 +31,6 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,elasticsearch,docker,fastapi,react,mysql,git,linux,js,html,css,vscode&theme=dark" />
 </p>
 
-
----
-
-### 📊 My GitHub Pulse
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryemchk&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryemchk&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
 ---
 
 ### 🏆 Highlights
