@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://2025-eight-orcin.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrounmeryem23@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=header&animation=fadeIn&fontAlignY=38&desc=🌸%20Petals%20of%20Innovation%20🌸&descAlignY=65&descAlign=50"/>
+
 
 </div>
 
@@ -43,10 +43,6 @@ class MaryemChakroun:
         return "AI isn't just about automation — it's about amplifying human potential."
 ```
 
-🧩 I build systems that blend reasoning, retrieval, and interaction  
-🥇 Winner of the international Nuit de l'Info Hackathon  
-🤖 Exploring RAG pipelines, vector databases, LLM orchestration, and FPGA tricks for blazing-fast AI  
-👁️ Detail-oriented: if it's color-balanced, well-kerned, or perfectly designed, I'll notice it
 
 ---
 
@@ -104,7 +100,7 @@ Building context-aware AI systems using vector databases, embedding models, and 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 
 > **🎨 Design Enthusiast**  
 > *"UI mockups in Figma, colour-theory nerd, believer that good UX = trust"*
@@ -138,6 +134,5 @@ Building context-aware AI systems using vector databases, embedding models, and 
 
 <sub>💌 Open to collaborations on AI projects, hackathons, and creative tech ventures</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
 
 </div>
