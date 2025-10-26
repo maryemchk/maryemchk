@@ -1,71 +1,162 @@
-# Maryem Chakroun
+<div align="center">
 
-AI and Data Engineering · Design-minded Engineer  
-Turning unstructured data into intelligent, human-like systems.
+# 👋 Hey there, I'm **Maryem Chakroun**
 
-[Portfolio](YOUR_PORTFOLIO_LINK) · [LinkedIn](YOUR_LINKEDIN_LINK) · [Email](mailto:YOUR_EMAIL) · [GitHub](https://github.com/maryemchk)
+### AI & Data Engineering Enthusiast | Final-Year Software Engineering Student | Hackathon Winner
 
----
+*Turning unstructured data into intelligent, human-like systems.*
 
-## About Me
-- Based in Tunisia 🇹🇳 · Final-Year Software Engineering @ ISIMM
-- Passion: AI for Impact × Semantic Search × Cultural Exchange
-- Superpower: Blending reasoning, retrieval, and interaction to build human-centered systems
-- Achievement: 🥇 Nuit de l'Info — International Challenge Winner
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-Currently exploring:
-- RAG pipelines and vector databases
-- LLM orchestration and agent patterns
-- FPGA acceleration for AI
-- End-to-end semantic search systems
+</div>
 
 ---
 
-## Skills Snapshot
-- AI/ML: PyTorch, TensorFlow, scikit-learn, LangChain, OpenAI, Hugging Face
-- Data & Infra: PostgreSQL, MongoDB, Redis, Docker, Git
-- Design: Figma, Adobe XD, Photoshop
+## 🧠 About Me
 
-Soft skills:
-- Systems thinking · UX sensibility · Clear communication · Team leadership
+```python
+class MaryemChakroun:
+    def __init__(self):
+        self.location = "Tunisia 🇹🇳"
+        self.education = "Final-Year Software Engineering @ ISIMM"
+        self.current_role = "AI Engineer Intern @ Talan (Summer 2025)"
+        self.passion = [
+            "AI for social impact",
+            "Semantic search & RAG pipelines",
+            "Cultural exchange through tech",
+            "FPGA-accelerated AI ⚡"
+        ]
+        self.superpower = "Detail-oriented design thinking 👁️"
+        
+    def current_focus(self):
+        return {
+            "building": "Qromo - Smart promotion management platform",
+            "experimenting": ["RAG pipelines", "Vector databases", "LLM orchestration"],
+            "exploring": "FPGA tricks for blazing-fast AI inference"
+        }
+    
+    def philosophy(self):
+        return "AI isn't just about automation — it's about amplifying human potential."
+```
 
----
+<details>
+<summary>💡 What makes me tick</summary>
 
-## Selected Projects
-### Qromo
-A platform to modernize promotions and customer engagement.
-- Backend microservices
-- Customer analytics
-- Real-time engagement
+- 🧩 I build systems that **blend reasoning, retrieval, and interaction**
+- 🥇 **International Hackathon Winner** — Nuit de l'Info
+- 🧭 **General Secretary @ ARSII Club** — orchestrating tech events & community impact
+- 👁️ If it's color-balanced, well-kerned, or perfectly designed, **I'll notice it**
+- 🌍 Believer in tech that bridges cultures and democratizes knowledge
 
-### AI Experimentation Lab
-Exploring the edge of practical AI systems.
-- RAG pipelines and vector DBs
-- AI agents and orchestration
-- Hardware-aware acceleration (FPGA)
-
----
-
-## Highlights
-- 🥇 Hackathon Winner — Nuit de l’Info (International Challenge)
-- 🧭 General Secretary — ARSII Club (Events & Initiatives)
-- 💼 Upcoming Intern — AI Engineer @ Talan (Summer 2025)
-
----
-
-## Personality
-- 👁️ Detail-oriented maximalist
-- 🎨 Color-balance perfectionist
-- ✍️ Typography enthusiast
-- 💎 UX = Trust believer
-
----
-
-## Let’s Connect
-I’m open to collaborations around AI products, semantic search, and design-forward tooling.
-
-[Portfolio](YOUR_PORTFOLIO_LINK) · [LinkedIn](YOUR_LINKEDIN_LINK) · [Email](mailto:YOUR_EMAIL)
+</details>
 
 ---
 
-“AI isn’t just about automation — it’s about amplifying human potential.” — Maryem Chakroun
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Qromo
+**Smart Promotion Management Platform**
+
+Helping businesses revolutionize customer engagement through intelligent promotion tracking and analytics.
+
+`Next.js` `AI/ML` `Data Analytics`
+
+</td>
+<td width="50%">
+
+### 🤖 AI Experiments
+**RAG Pipelines & Semantic Search**
+
+Building context-aware AI systems using vector databases, embedding models, and LLM orchestration.
+
+`LangChain` `Pinecone` `OpenAI` `FAISS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Toolbox
+
+<div align="center">
+
+### 🧠 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+
+### 🗄️ Data Engineering & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 💻 Full-Stack Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Highlights & Achievements
+
+<div align="center">
+
+| 🎯 Achievement | 📝 Description |
+|:---|:---|
+| 🥇 **Hackathon Champion** | Winner of **Nuit de l'Info** — International coding challenge |
+| 🧭 **Community Leader** | General Secretary @ ARSII Club — Leading tech events & initiatives |
+| 💼 **Industry Experience** | Upcoming AI Engineer Intern @ **Talan** (Summer 2025) |
+| 🌍 **Impact Projects** | Building AI solutions for cultural exchange & social good |
+
+</div>
+
+---
+
+## 🌸 Beyond the Code
+
+<div align="center">
+
+```
+🎨 Design Enthusiast     |  UI mockups in Figma, colour-theory nerd, UX = trust
+🎪 Event Architect       |  Budgets, stage design, swag, logistics — I plan it all
+💄 Beauty & Skincare     |  Testing serums, shade-matching tech, science meets beauty
+👗 Fashion & Styling     |  Thrift hunter, mood-board curator, palette-season addict
+```
+
+</div>
+
+Because great engineers don't just write code — we design experiences, orchestrate events, and appreciate the art in everything we create. ✨
+
+---
+
+## 💭 Philosophy
+
+<div align="center">
+
+### *"AI isn't just about automation — it's about amplifying human potential."*
+**— Maryem Chakroun**
+
+---
+
+<sub>💌 Open to collaborations on AI projects, hackathons, and creative tech ventures</sub>
+
+</div>
