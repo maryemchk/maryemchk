@@ -6,9 +6,11 @@
 
 *Turning unstructured data into intelligent, human-like systems.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryem-chakroun)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://2025-eight-orcin.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrounmeryem23@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=header&animation=fadeIn&fontAlignY=38&desc=🌸%20Petals%20of%20Innovation%20🌸&descAlignY=65&descAlign=50"/>
 
 </div>
 
@@ -18,7 +20,7 @@
 
 ```python
 class MaryemChakroun:
-    def __init__(self):
+    def __init__(self:
         self.location = "Tunisia 🇹🇳"
         self.education = "Final-Year Software Engineering @ ISIMM"
         self.current_role = "AI Engineer Intern @ Talan (Summer 2025)"
@@ -102,16 +104,26 @@ Building context-aware AI systems using vector databases, embedding models, and 
 
 <div align="center">
 
-```
-🎨 Design Enthusiast     |  UI mockups in Figma, colour-theory nerd, UX = trust
-🎪 Event Architect       |  Budgets, stage design, swag, logistics — I plan it all
-💄 Beauty & Skincare     |  Testing serums, shade-matching tech, science meets beauty
-👗 Fashion & Styling     |  Thrift hunter, mood-board curator, palette-season addict
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+> **🎨 Design Enthusiast**  
+> *"UI mockups in Figma, colour-theory nerd, believer that good UX = trust"*
+
+> **🎪 Event Architect**  
+> *"Planned tech events from scratch — budgets, stage design, swag, and logistics"*
+
+> **💄 Beauty & Skincare**  
+> *"Loves testing serums and shade-matching tech — where science meets beauty"*
+
+> **👗 Fashion & Styling**  
+> *"Thrift hunter, mood-board curator, palette-season addict"*
+
+---
+
+### Because great engineers don't just write code —  
+**We design experiences, orchestrate events, and appreciate the art in everything we create.** ✨
 
 </div>
-
-Because great engineers don't just write code — we design experiences, orchestrate events, and appreciate the art in everything we create. ✨
 
 ---
 
@@ -119,11 +131,13 @@ Because great engineers don't just write code — we design experiences, orchest
 
 <div align="center">
 
-### *"AI isn't just about automation — it's about amplifying human potential."*
+### *"AI isn't just about automation — it's about amplifying human potential."*  
 **— Maryem Chakroun**
 
 ---
 
 <sub>💌 Open to collaborations on AI projects, hackathons, and creative tech ventures</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
 
 </div>
