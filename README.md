@@ -5,7 +5,7 @@
 **AI & Data Engineering | Final-Year Software Engineering Student**
 
 Tunisia 🇹🇳
-[LinkedIn](https://www.linkedin.com/in/maryem-chakroun) · [Portfolio](https://2025-eight-orcin.vercel.app) · [Email](mailto:chakrounmeryem23@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maryem-chakroun) · [Portfolio](https://portfolio2025-eight-orcin.vercel.app) · [Email](mailto:chakrounmeryem23@gmail.com)
 
 </div>
 
