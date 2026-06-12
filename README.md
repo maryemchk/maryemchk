@@ -54,4 +54,5 @@ AI for social good · Semantic search · Human-centered AI · Design-aware engin
 
 ---
 
-> *AI isn’t about replacing people — it’s about building systems that help them think, decide, and create better.*
+> *AI isn’t about replacing people, it’s about building systems that help them think, decide, and create better.*
+> *Update (june 2026): AI will certainly replace people. :)  *
